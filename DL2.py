@@ -1,3 +1,5 @@
+# Solving XOR problem using deep feed forward network
+
 import numpy as np
 import tensorflow as tf
 model = tf.keras.Sequential([
